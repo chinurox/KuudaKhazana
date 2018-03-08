@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "439158170861",
+    "firebase_url": "https://kuudakhazana.firebaseio.com",
+    "project_id": "kuudakhazana",
+    "storage_bucket": "kuudakhazana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439158170861:android:59040279de44984e",
+        "android_client_info": {
+          "package_name": "com.example.gargc.kuudakhazana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439158170861-g4ftnmfe6p2db3i2njfgjg8tuprnv023.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gargc.kuudakhazana",
+            "certificate_hash": "b29316b87204b3ee125990feabf6d0b446840308"
+          }
+        },
+        {
+          "client_id": "439158170861-5kocegkcir560cj8ps16lu4va1su56sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa7r4LfziMPYhlGoBnIJikw_PyhLgTL8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439158170861-5kocegkcir560cj8ps16lu4va1su56sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
